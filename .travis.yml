@@ -29,3 +29,5 @@ matrix:
   - rvm: rbx
     env: RBX_RUBY_COMPAT=2.3.1 RBX_VERSION=3.62
     os: osx
+  - rvm: rbx-2
+    os: linux
